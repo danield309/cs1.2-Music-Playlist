@@ -1,0 +1,1 @@
+Build a music playlist builder using a linked list as the underlying data structure. Allows users to add, remove, search, and get length of a playlist.
